@@ -1,0 +1,10 @@
+1.	Maven Lifecycle:
+Validate  clean  compile  test  package  deploy  install.
+2.	Maven Commands & Goals:
+CMD1: mvn validate
+CMD2: mvn clean
+CMD3: mvn compile
+CMD4: mvn test
+CMD5: mvn package
+CMD6: mvn deploy
+CMD7: mvn install
