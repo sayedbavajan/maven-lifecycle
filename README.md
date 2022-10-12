@@ -1,2 +1,12 @@
 # maven-lifecycle
-learning maevn life cycle and commands 
+aaf
+a
+fafafv
+f
+a
+fa
+avagvsdfs
+v
+sv
+svd
+
